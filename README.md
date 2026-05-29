@@ -121,7 +121,16 @@ FreightDesk-CRM/
 
 ---
 
+## Need a Custom CRM or Web App?
+
+This is a real, production-grade system I built and deployed for a logistics company. If you need a custom CRM, internal tool, SaaS dashboard, or business website — I build them fast and to production quality.
+
+**Get in touch:** marawan.elsafty@ejust.edu.eg  
+**Available for freelance work** on Upwork and direct contracts.
+
+---
+
 ## Built By
 
 **Marawan El Safty** — Full-Stack Web Developer  
-[GitHub](https://github.com/Marawan-El-Safty) · [LinkedIn](https://linkedin.com/in/marawan-elsafty)
+[GitHub](https://github.com/Marawan-El-Safty) · [LinkedIn](https://linkedin.com/in/marawan-elsafty) · [Email](mailto:marawan.elsafty@ejust.edu.eg)

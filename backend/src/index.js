@@ -22,6 +22,8 @@ async function autoMigrate() {
     const seed = fs.readFileSync(path.join(__dirname, '../database/seed.sql'), 'utf8');
     await pool.query(schema);
     await pool.query(seed);
+    // Reset sequences so SERIAL columns don't conflict with explicit seed IDs
+    await pool.query(`SELECT setval('roles_id_seq', (SELECT MAX(id) FROM roles))`);
     console.log('Migration and seed complete.');
   }
   // Incremental migrations
