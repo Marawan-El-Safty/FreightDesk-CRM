@@ -6,6 +6,34 @@
 
 ---
 
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Clients & Contacts
+![Clients](screenshots/clients.png)
+
+### Leads Pipeline
+![Leads](screenshots/leads.png)
+
+### Quotation Builder
+![Quotation](screenshots/quotation.png)
+
+### Freight Rate Calculator
+![Calculator](screenshots/calculator.png)
+
+### Tasks
+![Tasks](screenshots/tasks.png)
+
+### Reports & KPIs
+![Reports](screenshots/reports.png)
+
+### User Management
+![Users](screenshots/users.png)
+
+---
+
 ## Features
 
 - **Pipeline Board** — drag-and-drop lead and deal management across stages
