@@ -1,6 +1,9 @@
 # FreightDesk CRM
 
-> A full-stack, production-ready CRM built for international freight forwarding and logistics companies.
+A CRM I built for a freight forwarding and logistics company to handle the
+day-to-day: clients, leads, quotations, invoices, and reports — all in one place.
+It's a real system, used in production by Safty Group, and this repo is a clean
+demo version of it.
 
 **Stack:** React 18 · Node.js · PostgreSQL · Docker
 
@@ -149,16 +152,11 @@ FreightDesk-CRM/
 
 ---
 
-## Need a Custom CRM or Web App?
+## About
 
-This is a real, production-grade system I built and deployed for a logistics company. If you need a custom CRM, internal tool, SaaS dashboard, or business website — I build them fast and to production quality.
+I built and deployed this for a logistics company. If you're after something
+similar — a CRM, an internal tool, a dashboard, or a business site — feel free to
+reach out.
 
-**Get in touch:** marawan.elsafty@ejust.edu.eg  
-**Available for freelance work** on Upwork and direct contracts.
-
----
-
-## Built By
-
-**Marawan El Safty** — Full-Stack Web Developer  
-[GitHub](https://github.com/Marawan-El-Safty) · [LinkedIn](https://linkedin.com/in/marawan-elsafty) · [Email](mailto:marawan.elsafty@ejust.edu.eg)
+**Marawan El Safty** — Web Developer
+[GitHub](https://github.com/Marawan-El-Safty) · [Email](mailto:marawan.elsafty@ejust.edu.eg)
